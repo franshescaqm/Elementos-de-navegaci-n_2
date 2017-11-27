@@ -46,5 +46,26 @@ Se puede navegar dentro de la pagina web con este buscador
 Se puede navegar dentro de la pagina web con este buscador ubicado en el footer.
 
 - Contextual:
-Recomienda los repositorios de otros usuarios muy parecidos al de la persona registrada.
-![Recomendacion](assets/github/contextual.png)
+Recomienda los repositorios de otros usuarios basado en mi historial de repositorios vistos:  
+![Recomendacion](assets/github/contextual.png)  
+
+## Medium:  
+
+Esta pagina web se basa es articulos escritos y creados por los mismos usuarios sobre diversos temas (Ejemplo: culturales, de musica, opiniones, relaciones, economia, gobernamentales, etc,). Los Elementos de navegación en esta pagina son las siguientes:
+
+- Global: ![Principal](assets/medium/global.png)
+Es la navegación principal de la pag. web.
+
+- Local: Se puede navegar dentro de la pagina web con este buscador
+![Local](assets/medium/local.png)
+
+- Contextual: recomienda historias mas buscadas según mis historial de busqueda
+![Contextual_1](assets/medium/Contextual.png)
+- Contextual II: recomienda las diferentes historias de un canal en específico que he buscado anteriormente
+![Contextual_2](assets/medium/Contextual_2.png)
+
+- Facetado: Me recomienda historias por default, no en basa de mis busquedas, sino por el mismo sistema
+![Contextual_2](assets/medium/Facetado.png)
+
+- Inline: Se encuentra un enlace ingresado por el mismo usuario en su propio articulo para mejor entendimiento de ello.
+![Enlaces](assets/medium/Facetado.png)
