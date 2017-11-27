@@ -17,15 +17,35 @@ Esta es un ejemplo inline:
 ![Nav. pag. web](assets/breather/inline.png)
  ya que hay un  enlace (subrayado) que al hacerle "CLICK" enlaza a una nueva pagína:
  ![Local](assets/breather/local.png)
- en donde se puede hacer un nuevo tipo de navegación, la cual es "LOCAL" ya que son busquedas internas
+ En donde se puede hacer un nuevo tipo de navegación, la cual es _LOCAL_ ya que son busquedas internas
 
  - Filtrado:
  ![Principal](assets/breather/filtrados.png)
  Es la parte principal de la pagina web ya que usa filtros para que el usuario pueda encontrar el espacio ambientado requerido:
  1. ![Primera parte](assets/breather/filtrado_2.1.png) Se usa para filtrar por país: Canada, EEUU, y Europa
  2. ![Segunda parte](assets/breather/filtrado_2.2.png) Es usado para filtrar las horas o días en que el cliente desea el establecimiento
- 3. ![Tercera parte](assets/breather/filtrado_2.3.png) En esta tercera parte del filtrado, el cliente debe indicar cuantas personas estaran en el establecimiento para que dependiendo de eso, el sistema muestre diferentes tamaños de espacios.
+ 3. ![Tercera parte](assets/breather/filtrado_2.3.png)
+ En esta tercera parte del filtrado, el cliente debe indicar cuantas personas estaran en el establecimiento para que dependiendo de eso, el sistema muestre diferentes tamaños de espacios.
  4. ![Cuarta parte](assets/breather/filtrado_2.4.png) En esta ultima parte, muestra cosas extras que el usuario quisiera agregar, como por ejemplo:
   A. Espacio de parqueo, Televisión Plasma, Conexión Wifi, ascensores, etc.
   B. Indicar que tipo de reunión tendras como reunión de trabajo, terapia, sesión de fotos, etc.
   C.El costo por Hora o Día.
+
+## Github:  
+
+Es un repositorio remoto en donde programadores alrededor del mundo pueden subir sus trabajos (como función en nube). Los elementos de navegación son las siguientes:  
+
+- Global:
+![Global](assets/github/global.png)
+Es la navegación principal de la pag. web.  
+
+- Local:
+![Local](assets/github/Local.png)
+Se puede navegar dentro de la pagina web con este buscador
+- Local II:
+![Local-Footer](assets/github/local-2.png)
+Se puede navegar dentro de la pagina web con este buscador ubicado en el footer.
+
+- Contextual:
+![Recomendacion](assets/github/contextual.png)
+Recomienda los repositorios de otros usuarios muy parecidos al de la persona registrada.
