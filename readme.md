@@ -19,7 +19,8 @@ Esta es un ejemplo inline:
 
 - **Local:**
  ![local](assets/breather/local.png)
- En donde se puede hacer un nuevo tipo de navegación, la cual es _LOCAL_ ya que son busquedas internas
+ 
+ la cual es del tipo _LOCAL_ ya que son busquedas internas.
 
  - **Filtrado:**
  ![Principal](assets/breather/filtrados.png)
