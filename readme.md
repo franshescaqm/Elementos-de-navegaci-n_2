@@ -6,6 +6,7 @@ En este ejercicio tenemos que observar y eligir los elementos de navegacion de l
 Ahora, veremos los elementos de navegación:  
 
 - Global (Menu Desplegable - Footer):  
-![Menu-Desplegable][../assets/breather_img/global.png]  
-![Footer][../assets/breather_img/global_md.png]  
+![][../assets/breather_img/global_md.png]  
+![][../assets/breather_img/global.png
+]  
 Estos 2 ejemplos, nos muestra como podemos navegar por la pagina web ya que ambos muestran las mismas opciones estando en diferentes ubicaciones
