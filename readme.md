@@ -36,16 +36,15 @@ Esta es un ejemplo inline:
 Es un repositorio remoto en donde programadores alrededor del mundo pueden subir sus trabajos (como función en nube). Los elementos de navegación son las siguientes:  
 
 - Global:
-![Global](assets/github/global.png)
 Es la navegación principal de la pag. web.  
+![Global](assets/github/global.png)
 
 - Local:
-![Local](assets/github/Local.png)
 Se puede navegar dentro de la pagina web con este buscador
-- Local II:
-![Local-Footer](assets/github/local-2.png)
+![Local](assets/github/Local.png)
+- Local II: ![Local-Footer](assets/github/local-2.png)
 Se puede navegar dentro de la pagina web con este buscador ubicado en el footer.
 
 - Contextual:
-![Recomendacion](assets/github/contextual.png)
 Recomienda los repositorios de otros usuarios muy parecidos al de la persona registrada.
+![Recomendacion](assets/github/contextual.png)
