@@ -16,6 +16,7 @@ Estos 2 ejemplos, nos muestra como podemos navegar por la pagina web ya que ambo
 Esta es un ejemplo inline:
 ![Nav. pag. web](assets/breather/inline.png)
  ya que hay un  enlace (subrayado) que al hacerle "CLICK" enlaza a una nueva pagína:
+ 
  ![Local](assets/breather/local.png)
  En donde se puede hacer un nuevo tipo de navegación, la cual es _LOCAL_ ya que son busquedas internas
 
