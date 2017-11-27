@@ -16,7 +16,7 @@ Estos 2 ejemplos, nos muestra como podemos navegar por la pagina web ya que ambo
 Esta es un ejemplo inline:
 ![Nav. pag. web](assets/breather/inline.png)
  ya que hay un  enlace (subrayado) que al hacerle "CLICK" enlaza a una nueva pagína:
- ![Local](assets/breather/local.png)
+ ![Local](assets/breather/Local.png)
  En donde se puede hacer un nuevo tipo de navegación, la cual es _LOCAL_ ya que son busquedas internas
 
  - **Filtrado:**
@@ -25,11 +25,13 @@ Esta es un ejemplo inline:
  1. ![Primera parte](assets/breather/filtrado_2.1.png) Se usa para filtrar por país: Canada, EEUU, y Europa
  2. ![Segunda parte](assets/breather/filtrado_2.2.png) Es usado para filtrar las horas o días en que el cliente desea el establecimiento
  3. ![Tercera parte](assets/breather/filtrado_2.3.png)
+
  En esta tercera parte del filtrado, el cliente debe indicar cuantas personas estaran en el establecimiento para que dependiendo de eso, el sistema muestre diferentes tamaños de espacios.
- 4. ![Cuarta parte](assets/breather/filtrado_2.4.png) En esta ultima parte, muestra cosas extras que el usuario quisiera agregar, como por ejemplo:
+ 4. En esta ultima parte, muestra cosas extras que el usuario quisiera agregar, como por ejemplo:
   A. Espacio de parqueo, Televisión Plasma, Conexión Wifi, ascensores, etc.
   B. Indicar que tipo de reunión tendras como reunión de trabajo, terapia, sesión de fotos, etc.
   C.El costo por Hora o Día.
+  ![Cuarta parte](assets/breather/filtrado_2.4.png)
 
 ## Github:  
 
@@ -56,18 +58,18 @@ Esta pagina web se basa es articulos escritos y creados por los mismos usuarios 
 - **Global:** ![Principal](assets/medium/global.png)
 Es la navegación principal de la pag. web.
 
-- **Local:** Se puede navegar dentro de la pagina web con este buscador
+- **Local:** Se puede navegar dentro de la pagina web con este buscador:
 ![Local](assets/medium/local.png)
 
-- **Contextual:** recomienda historias mas buscadas según mis historial de busqueda
+- **Contextual:** recomienda historias mas buscadas según mis historial de busqueda:
 ![Contextual_1](assets/medium/Contextual.png)
-- **Contextual II:** recomienda las diferentes historias de un canal en específico que he buscado anteriormente
+- **Contextual II:** recomienda las diferentes historias de un canal _en específico_ que he buscado anteriormente:
 ![Contextual_2](assets/medium/Contextual_2.png)
 
-- **Facetado:** Me recomienda historias por default, no en basa de mis busquedas, sino por el mismo sistema
+- **Facetado:** Me recomienda historias por default, no en basa de mis busquedas, sino por el mismo sistema:
 ![Contextual_2](assets/medium/Facetado.png)
 
-- **Inline:** Se encuentra un enlace ingresado por el mismo usuario en su propio articulo para mejor entendimiento de ello.
+- **Inline:** Se encuentra un enlace ingresado por el mismo usuario en su propio articulo para mejor entendimiento de ello:
 ![Enlaces](assets/medium/Inline.png)
 
 >> Reto realizado por Franshesca Quezada
